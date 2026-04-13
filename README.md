@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hello 👋
 
-<!--
-**ysncar717/ysncar717** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Software Developer working with.NET and web technologies.
 
-Here are some ideas to get you started:
+🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Backend: C, C#, .NET, ASP.NET Core. RESTful API, MVC
+Frontend: HTML, CSS, JavaScript
+Database: SQL, SQLite
+Architecture: N-Tier, OOP, RESTful APIs, Repository Pattern, Dependency Injection
+Tools: Visual Studio, Git/GitHub
+
+## 🎓 Certification & Education
+- Microsoft Certified Solution Developer (MCSD) 
+- B.S. Computer Programming - Anadolu University  - in Progress
+
+📌 About Me
+I develop web applications using layered architectures and clean code principles. I believe in SOLID principles and best practices. I focus on learning new technologies and creating and developing high-quality software.
